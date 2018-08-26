@@ -1,0 +1,17 @@
+{
+  "name": "twitter-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Marius Talagiu",
+  "dependencies": {
+    "express": "latest",
+    "twitter": "latest",
+    "dotenv": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
