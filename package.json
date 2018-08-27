@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "latest",
     "twitter": "latest",
-    "dotenv": "latest"
+    "dotenv": "latest",
+    "socket.io": "latest"
   },
   "devDependencies": {
     "nodemon": "latest"
