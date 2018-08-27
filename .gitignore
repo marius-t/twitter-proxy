@@ -2,6 +2,5 @@
 ._*
 node_modules/*
 package-lock.json
-#prevent sensitive data to get on github
-.env 
+.env
 debug.log
